@@ -1,0 +1,32 @@
+# Temporary evidence files
+temp_video.mp4
+temp_audio.*
+*.mp4
+*.avi
+*.mov
+*.wav
+*.mp3
+*.m4a
+
+# Forensic output files (regenerated each run)
+custody_log.json
+forensic_report.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+
+# HuggingFace model cache (huge — don't commit)
+.cache/
+~/.cache/huggingface/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
