@@ -119,7 +119,7 @@ Forensiguard/
 
 Try the deployed application here:
 
-https://forensiguard.streamlit.app/
+https://forensiguard.streamlit.app
 
 ---
 
