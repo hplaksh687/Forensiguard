@@ -30,3 +30,8 @@ env/
 # OS
 .DS_Store
 Thumbs.db
+temp_video.mp4
+temp_audio.*
+forensic_report.pdf
+__pycache__/
+*.pyc

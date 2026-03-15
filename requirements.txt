@@ -1,7 +1,12 @@
 streamlit
-opencv-python
+opencv-python-headless
 numpy
-pandas
-ffmpeg-python
+torch
+torchvision
+timm
+Pillow
+python-magic
 reportlab
 ollama
+librosa
+transformers
