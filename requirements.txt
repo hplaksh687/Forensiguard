@@ -5,7 +5,6 @@ torch
 torchvision
 timm
 Pillow
-python-magic
 reportlab
 ollama
 librosa
